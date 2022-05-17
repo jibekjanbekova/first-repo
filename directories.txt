@@ -1,0 +1,6 @@
+aku.py            hello.py   ' lask.py'    snap          Музыка
+ ay.ji             janyl.py    lask.py      Видео         Общедоступные
+ ay.ji.py          jaynyl.py   lesson8.py   Документы    'Рабочий стол'
+ ay.ji.save        jibek.py    lesson9.py   Загрузки      Шаблоны
+ directories.txt   jika.py     py           Изображения
+jibek@jibek-H
